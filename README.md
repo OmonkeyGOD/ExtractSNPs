@@ -8,7 +8,7 @@ Variants.vcf  <br />
 Genelist.txt <br />
 
 Genelist.txt format tab separated gene symbols and gene IDs used in Genome annotation file <br />
-FUR1 [/tab] B9J08_004076 <br />
+FUR1 </tab> B9J08_004076 <br />
 TAC1B	[/tab] B9J08_004820 <br />
 ERG2 [/tab] B9J08_004943 <br />
 ERG3 [/tab] B9J08_003737 <br />
