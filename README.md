@@ -7,11 +7,11 @@ Genome annotation in GFF format <br />
 VCF file  <br />
 Gene list <br />
 Genelist.txt format tab separated gene symbols and gene IDs used in Genome annotation file <br />
-FUR1	B9J08_004076
-TAC1B	B9J08_004820
-ERG2	B9J08_004943
-ERG3	B9J08_003737
-ERG5	B9J08_002349
+FUR1	B9J08_004076 <br />
+TAC1B	B9J08_004820 <br />
+ERG2	B9J08_004943 <br />
+ERG3	B9J08_003737 <br />
+ERG5	B9J08_002349 <br />
 
 # How to use
 To run the script, you might need to: <br />
