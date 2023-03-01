@@ -7,7 +7,8 @@ Genome annotation in GFF format <br />
 Variants.vcf  <br />
 Genelist.txt <br />
 
-Genelist.txt format tab separated gene symbols and gene IDs used in Genome annotation file <br />
+Genelist.txt <br />
+tab separated gene symbols and gene IDs used in Genome annotation file <br />
 FUR1 B9J08_004076 <br />
 TAC1B	B9J08_004820 <br />
 ERG2 B9J08_004943 <br />
