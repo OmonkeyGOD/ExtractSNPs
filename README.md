@@ -1,5 +1,5 @@
 # ExtractSNPs
-Extract SNPs from genes of interest.
+Extract SNPs from genes of interest for *Candida auris*.
 # Prerequisite
 Perl 5 <br />
 # Files
